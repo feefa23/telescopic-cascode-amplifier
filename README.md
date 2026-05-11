@@ -9,7 +9,6 @@ Architecture
 **Stage 3 (Buffer):** A Common-Drain (Q3) source follower is employed to isolate the high-impedance gain node from the 10k ohms load. This ensures the load does not significantly attenuate the voltage gain and provides the current necessary to drive the 12pF capacitive load.  
 Biasing: Gate biases are provided by high-impedance voltage divider networks ($M\Omega$ range) to minimize current draw, leaving the majority of the 1mW power budget for the active signal path.  
 
-![Circuit Diagram](Results/circuit_diagram.png)
-
 ## **Simulation Results**
+![Circuit Diagram](Results/circuit_diagram.png)
 ![Results Table](Results/results_table.png)
