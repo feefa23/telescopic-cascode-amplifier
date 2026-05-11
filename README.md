@@ -14,5 +14,5 @@ The primary objective of this project was to achieve a voltage gain exceeding 60
 **Biasing:** Gate biases are provided by high-impedance voltage divider networks ($M\Omega$ range) to minimize current draw, leaving the majority of the 1mW power budget for the active signal path.  
 
 ## **Simulation Results**
-![Circuit Diagram](Results/circuit_diagram.png)
+![Circuit Diagram](Results/schematic.png)
 ![Results Table](Results/results_table.png)
